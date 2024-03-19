@@ -2,51 +2,51 @@
   {
     "id": 1,
     "cover_image": "https://i.ibb.co/RThqDH5/blogs3.jpg",
-    "title": "Lorem Ipsum Dolor Sit Amet",
+    "title": "Clunker Car Deals: Your Guide to Buy a Junk Car",
     "author": "John Doe",
     "author_image": "https://i.ibb.co/F6Q3kf8/iamge1.jpg",
     "posted_date": "2024-03-16",
-    "reading_time": "10 mins",
+    "reading_time": "10 ",
     "hash_tag": ["#Lorem", "#Ipsum", "#Dolor"]
   },
   {
     "id": 2,
     "cover_image": "https://i.ibb.co/3hkVkXR/23.jpg",
-    "title": "Consectetur Adipiscing Elit",
+    "title": "Clunker Car Deals: Your Guide to Buy a Junk Car",
     "author": "Jane Smith",
     "author_image": "https://i.ibb.co/9GBr6JH/image3.jpg",
     "posted_date": "2024-03-15",
-    "reading_time": "8 mins",
+    "reading_time": "8",
     "hash_tag": ["#Consectetur", "#Adipiscing", "#Elit"]
   },
   {
     "id": 3,
     "cover_image": "https://i.ibb.co/ZGV7Rcy/blogs.jpg",
-    "title": "Sed Do Eiusmod Tempor Incididunt",
+    "title": "Clunker Car Deals: Your Guide to Buy a Junk Car",
     "author": "Alice Johnson",
     "author_image": "https://i.ibb.co/wdwxNx1/image2.jpg",
     "posted_date": "2024-03-14",
-    "reading_time": "12 mins",
+    "reading_time": "12 ",
     "hash_tag": ["#Sed", "#Tempor", "#Incididunt"]
   },
   {
     "id": 4,
     "cover_image": "https://i.ibb.co/x5w3DNS/knowledge.jpg",
-    "title": "Labore Et Dolore Magna Aliqua",
+    "title": "Megan is a Content Marketing Lead at Siege Media whose expertise is in creating and promoting unique content that drives client growth",
     "author": "Michael Brown",
     "author_image": "https://i.ibb.co/xqJQXTd/image4.jpg",
     "posted_date": "2024-03-13",
-    "reading_time": "15 mins",
+    "reading_time": "15 ",
     "hash_tag": ["#Labore", "#Dolore", "#Aliqua"]
   },
   {
     "id": 5,
     "cover_image": "https://i.ibb.co/R32WXw1/books.jpg",
-    "title": "Ut Enim Ad Minim Veniam",
+    "title": "Megan is a Content Marketing Lead at Siege Media whose expertise is in creating and promoting unique content that drives client growth",
     "author": "David Wilson",
     "author_image": "https://i.ibb.co/0nR9p6R/image5.jpg",
     "posted_date": "2024-03-12",
-    "reading_time": "7 mins",
+    "reading_time": "7 ",
     "hash_tag": ["#Ut", "#Enim", "#Minim"]
   }
 ]
